@@ -38,7 +38,9 @@ export const LearnMore = () => {
                 <h2 className="text-4xl font-semibold text-stone-700 mb-6">Contact Us</h2>
                 <p className="text-lg text-gray-700 mb-4">
                     For any inquiries or support, please reach out to us at 
-                    <a href="mailto:support@example.com" className="text-red-500 underline"> support@example.com</a>.
+                    <a href="mailto:lamrostr03@gmail.com" className="text-red-500 underline"> lamrostr03@gmail.com</a>.
+                    <br />
+                    <a className="text-red-500 hover:underline" href="https://github.com/lamrositorus"> Check out our GitHub page for more information.</a>
                 </p>
                 <p className="text-sm text-gray-500">
                     We&apos;re here to help you find the best dining experiences!
