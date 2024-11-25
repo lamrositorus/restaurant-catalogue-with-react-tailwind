@@ -1,0 +1,5 @@
+export * from './Home.jsx'
+export * from './Favorite.jsx'
+export * from './About.jsx'
+export * from './Detail.jsx'
+export * from './Learnmore.jsx'
